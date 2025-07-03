@@ -4,7 +4,7 @@
 <h1 align="center">⚙️ Saffi — Full Stack | DSA | DevOps Curious</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=00FFD2&center=true&vCenter=true&width=440&lines=FastAPI+%2B+React+Dev;DSA+Grinder+%F0%9F%92%AA;Code%2C+Design%2C+Deploy+Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=00FFD2&center=true&vCenter=true&width=440&lines=FastAPI+%2B+React+Dev;Api Layer Builder+%F0%9F%92%AA;Code%2C+Design%2C+Deploy+Repeat" alt="Typing SVG" />
 </p>
 
 ---
