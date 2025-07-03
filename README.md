@@ -14,7 +14,6 @@
 
 - **📦 Delivery System** – Real-time FastAPI + PostgreSQL + React logistics platform
 - **🧠 Crossword AutoSolver** – Python-based crossword generator/solver with backtracking logic
-- **📡 Real-Time Chat** – FastAPI + Socket.io + React minimal live messaging app
 
 ---
 
