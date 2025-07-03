@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/BeautifulSoup-6E4C13?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Requests-ACB1D6?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
