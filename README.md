@@ -1,5 +1,4 @@
 
----
 
 <!-- GitHub Profile README for Saffi -->
 <!-- Inspired by modern dev profiles & tech portfolio vibes -->
@@ -44,16 +43,16 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaffiSardar&theme=tokyonight&hide_border=false" alt="streak stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=SaffiSardar&theme=tokyonight&hide_border=false" alt="streak stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SaffiSardar&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=false" alt="stats"/>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaffiSardar&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=false" alt="stats"/>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaffiSardar&theme=tokyo-night&hide_border=false&area=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SaffiSardar&theme=tokyo-night&hide_border=false&area=true" alt="activity graph"/>
 </p>
 
 ---
