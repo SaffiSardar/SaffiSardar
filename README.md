@@ -87,14 +87,3 @@
 
 ---
 
-✅ What’s fixed:
-
-GitHub Flex section now renders two cards side-by-side reliably using a <table>.
-
-No weird wrapping or breakage on smaller screens.
-
-Clean and centered, still passes GitHub README rendering perfectly.
-
-
-Let me know if you want a dark-mode-only tweak, animation boost, or auto-refreshing counters next.
-
