@@ -1,5 +1,3 @@
-Bet. Here's your fully updated GitHub README with the GitHub Flex section fixed using table layout (side-by-side works beautifully on desktop and doesn’t break on mobile). Rest of the content is untouched, exactly as you wrote it.
-
 
 ---
 
