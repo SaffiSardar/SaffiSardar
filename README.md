@@ -15,41 +15,58 @@ Hi, I’m **Saffi** — a problem-solver who loves turning complex ideas into wo
 👾 Currently building: **Office Metaverse** — a 2D virtual workplace built with **FastAPI**, **PostgreSQL**, **Pixi.js**, and **React**.
 
 💡 I play multiple roles:
-- 👨‍💻 **Backend & API Engineer** (FastAPI, PostgreSQL, SQLAlchemy)
-- 🤖 **AI Integrator** (OpenAI, LangChain, MojoAuth)
-- 🔧 **DevOps Guy** (CI/CD pipelines, GitHub automation)
-- 🧭 **Product Manager & Scrum Lead** (ClickUp & JIRA wrangler)
+
+- 👨‍💻 **Backend & API Engineer** (FastAPI, PostgreSQL, SQLAlchemy)  
+- 🤖 **AI Integrator** (OpenAI, LangChain, MojoAuth)  
+- 🔧 **DevOps Guy** (CI/CD pipelines, GitHub automation)  
+- 🧭 **Product Manager & Scrum Lead** (ClickUp & JIRA wrangler)  
 
 I treat every commit like a checkpoint in a quest. My FYP team might be new to the tech world, but we’re shipping features like bosses.
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaffiSardar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaffiSardar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaffiSardar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaffiSardar&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophy" />
+</p>
+
+---
+
 ### 🧪 Current Stack
 
-| Area            | Tech |
-|-----------------|------|
-| 👨‍💻 Backend       | FastAPI, Python, PostgreSQL, SQLAlchemy |
-| ⚙️ DevOps        | Docker, GitHub Actions, Railway |
-| 💻 Frontend      | React, Axios, HTML/CSS, Pixi.js |
-| 🤖 AI / Auth     | OpenAI, LangChain, MojoAuth |
-| 📈 Project Mgmt  | JIRA, ClickUp, GitHub Projects |
-| 🧪 Testing       | Pytest, Faker, Benchmarking |
+| Area            | Tech                                                   |
+|-----------------|--------------------------------------------------------|
+| 👨‍💻 Backend       | FastAPI, Python, PostgreSQL, SQLAlchemy               |
+| ⚙️ DevOps        | Docker, GitHub Actions, Railway                        |
+| 💻 Frontend      | React, Axios, HTML/CSS, Pixi.js                        |
+| 🤖 AI / Auth     | OpenAI, LangChain, MojoAuth                            |
+| 📈 Project Mgmt  | JIRA, ClickUp, GitHub Projects                         |
+| 🧪 Testing       | Pytest, Faker, Benchmarking                            |
 
 ---
 
 ### 🛠️ Side Quests
 
-- 📦 Delivery System API (with automated warehouse/product management)
-- 🧠 Crossword Solver (brute-force meets big brain)
-- 🕹️ Real-time systems that physically operate via code
+- 📦 Delivery System API (with automated warehouse/product management)  
+- 🧠 Crossword Solver (brute-force meets big brain)  
+- 🕹️ Real-time systems that physically operate via code  
 
 ---
 
 ### 🎯 Goals Right Now
 
-- Master GitHub x JIRA integrations for elite-level Scrum tracking
-- Deploy Office Metaverse v1.0 with working presence + productivity tools
-- Keep learning, keep shipping
+- Master GitHub x JIRA integrations for elite-level Scrum tracking  
+- Deploy Office Metaverse v1.0 with working presence + productivity tools  
+- Keep learning, keep shipping  
 
 ---
 
@@ -62,4 +79,4 @@ Got something cool? Let’s build it.
 
 ---
 
-> ⚡ *“Build fast, think deep, and automate everything that breathes.”*  
+> ⚡ *“Build fast, think deep, and automate everything that breathes.”*
