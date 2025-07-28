@@ -1,88 +1,52 @@
+# Saffi
 
+**Full-Stack Developer** building scalable APIs and real-time applications
 
-<!-- GitHub Profile README for Saffi -->
-<!-- Inspired by modern dev profiles & tech portfolio vibes -->
+Currently working on delivery systems, crossword solvers, and performance optimization.
 
-<h1 align="center">⚙️ Saffi — API Builder • Project Mgmt in Progress 🚧</h1>
+## GitHub Stats
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&pause=1000&color=00FFD2&center=true&vCenter=true&width=440&lines=API+Layer+Builder;Project+Manager+%F0%9F%A7%A0;Code%2C+Integrate%2C+Deploy+Repeat" alt="Typing SVG" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saffi&show_icons=true&theme=dark&count_private=true&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saffi&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
-## 🚀 Projects You Should Know About
+![GitHub Streak](https://streak-stats.demolab.com/?user=saffi&theme=dark&hide_border=true)
 
-- **📦 Delivery System** – Real-time FastAPI + PostgreSQL + React logistics platform  
-- **🧠 Crossword AutoSolver** – Python-based crossword generator/solver with backtracking logic
+## Activity Graph
 
----
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saffi&theme=github-compact&hide_border=true)
 
-## 💻 Tech Stack
+## Projects
 
-<p align="center">
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/FastAPI-00A884?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-  <img src="https://img.shields.io/badge/BeautifulSoup-6E4C13?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Requests-ACB1D6?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  
-  <!-- Other -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-</p>
+**📦 Delivery System**  
+Real-time logistics platform with FastAPI, PostgreSQL, and React. Features live tracking, async APIs, and WebSocket integration.
 
----
+**🧠 Crossword AutoSolver**  
+Python-based generator and solver using backtracking algorithms and constraint satisfaction.
 
-## 📊 GitHub Flex
+## Tech Stack
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=SaffiSardar&theme=tokyonight&hide_border=false" alt="streak stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaffiSardar&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=false" alt="stats"/>
-    </td>
-  </tr>
-</table>
+**Backend:** Python, FastAPI, PostgreSQL  
+**Frontend:** React, JavaScript, Axios  
+**Testing:** Pytest, pytest-benchmark  
+**Tools:** Docker, Git, Figma
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SaffiSardar&theme=tokyo-night&hide_border=false&area=true" alt="activity graph"/>
-</p>
+## Currently Working On
+
+- Building comprehensive test suites with pytest-benchmark
+- Integrating FastAPI backends with React frontends
+- Converting Figma designs to functional components
+- Scaling real-time applications with WebSockets
+
+## Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/saffi) • [Portfolio](https://saffi.dev) • [Email](mailto:saffi@example.com)
 
 ---
 
-## 🧠 Currently Grinding
-
-- 🧪 Pytest test suites & benchmarking with `pytest-benchmark`  
-- 🌍 FastAPI + React integration via Axios  
-- 🎨 Figma UI to functional frontend pipelines  
-- ⚙️ Scaling real-time applications w/ sockets and async APIs  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/saffi-sardar-1686631b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:saffisardar2012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaffiSardar&label=Profile+Views&color=00FFD2&style=flat-square" alt="Profile views" />
-</p>
-
-
----
-
+![Profile Views](https://komarev.com/ghpvc/?username=saffi&color=blue&style=flat-square)
