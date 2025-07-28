@@ -1,52 +1,65 @@
-# Saffi
+<!-- README.md for GitHub profile -->
 
-**Full-Stack Developer** building scalable APIs and real-time applications
-
-Currently working on delivery systems, crossword solvers, and performance optimization.
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saffi&show_icons=true&theme=dark&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saffi&layout=compact&theme=dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=saffi&theme=dark&hide_border=true)
-
-## Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saffi&theme=github-compact&hide_border=true)
-
-## Projects
-
-**📦 Delivery System**  
-Real-time logistics platform with FastAPI, PostgreSQL, and React. Features live tracking, async APIs, and WebSocket integration.
-
-**🧠 Crossword AutoSolver**  
-Python-based generator and solver using backtracking algorithms and constraint satisfaction.
-
-## Tech Stack
-
-**Backend:** Python, FastAPI, PostgreSQL  
-**Frontend:** React, JavaScript, Axios  
-**Testing:** Pytest, pytest-benchmark  
-**Tools:** Docker, Git, Figma
-
-## Currently Working On
-
-- Building comprehensive test suites with pytest-benchmark
-- Integrating FastAPI backends with React frontends
-- Converting Figma designs to functional components
-- Scaling real-time applications with WebSockets
-
-## Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/saffi) • [Portfolio](https://saffi.dev) • [Email](mailto:saffi@example.com)
+<h1 align="center">🚀 Saffi Sardar</h1>
+<p align="center">
+  <b>Product Manager | Full-Stack Developer | AI + Backend + DevOps Engineer</b><br/>
+  Building digital realities & backend brains for next-gen platforms
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=saffi&color=blue&style=flat-square)
+### 🧠 About Me
+
+Hi, I’m **Saffi** — a problem-solver who loves turning complex ideas into working code.
+
+👾 Currently building: **Office Metaverse** — a 2D virtual workplace built with **FastAPI**, **PostgreSQL**, **Pixi.js**, and **React**.
+
+💡 I play multiple roles:
+- 👨‍💻 **Backend & API Engineer** (FastAPI, PostgreSQL, SQLAlchemy)
+- 🤖 **AI Integrator** (OpenAI, LangChain, MojoAuth)
+- 🔧 **DevOps Guy** (CI/CD pipelines, GitHub automation)
+- 🧭 **Product Manager & Scrum Lead** (ClickUp & JIRA wrangler)
+
+I treat every commit like a checkpoint in a quest. My FYP team might be new to the tech world, but we’re shipping features like bosses.
+
+---
+
+### 🧪 Current Stack
+
+| Area            | Tech |
+|-----------------|------|
+| 👨‍💻 Backend       | FastAPI, Python, PostgreSQL, SQLAlchemy |
+| ⚙️ DevOps        | Docker, GitHub Actions, Railway |
+| 💻 Frontend      | React, Axios, HTML/CSS, Pixi.js |
+| 🤖 AI / Auth     | OpenAI, LangChain, MojoAuth |
+| 📈 Project Mgmt  | JIRA, ClickUp, GitHub Projects |
+| 🧪 Testing       | Pytest, Faker, Benchmarking |
+
+---
+
+### 🛠️ Side Quests
+
+- 📦 Delivery System API (with automated warehouse/product management)
+- 🧠 Crossword Solver (brute-force meets big brain)
+- 🕹️ Real-time systems that physically operate via code
+
+---
+
+### 🎯 Goals Right Now
+
+- Master GitHub x JIRA integrations for elite-level Scrum tracking
+- Deploy Office Metaverse v1.0 with working presence + productivity tools
+- Keep learning, keep shipping
+
+---
+
+### 🛰️ Let’s Connect
+
+Got something cool? Let’s build it.
+
+- 📫 **[LinkedIn](https://www.linkedin.com/in/saffi-sardar-1686631b6/)**  
+- 🧠 **Always down to collab on AI, DevOps, or system design**  
+
+---
+
+> ⚡ *“Build fast, think deep, and automate everything that breathes.”*  
