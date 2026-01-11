@@ -68,8 +68,6 @@ A gamified virtual office where teams collaborate in real time.
 Let’s build something meaningful.
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/saffi-sardar-1686631b6/  
-- 🤝 Open for collaborations in **AI · Backend · System Design**
+- 🤝 Open for collaborations in **Backend · System Design**
 
 ---
-
-> ⚡ *Build fast. Think deep. Automate everything that breathes.*
