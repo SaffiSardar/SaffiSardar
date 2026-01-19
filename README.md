@@ -16,20 +16,6 @@
 
 ---
 
-## 📊 Live Stats Dashboard
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaffiSardar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaffiSardar&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaffiSardar&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🧩 Main Quest — Office Metaverse
 A gamified virtual office where teams collaborate in real time.
 
