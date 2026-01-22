@@ -1,7 +1,6 @@
-<h1 align="center">🚀 Saffi Sardar</h1>
+<h1 align="center">Saffi Sardar</h1>
 <p align="center">
   <b>Product Manager | Backend Engineer | System Builder</b><br/>
-  Turning complex ideas into production-ready realities
 </p>
 
 ---
