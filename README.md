@@ -8,8 +8,8 @@
 ## 🎮 Player Profile
 **Name:** Saffi  
 **Class:** Backend Systems Engineer 
-**Special Abilities:
-** API Architecture · System Design · Team Leadership  
+**Special Abilities:**
+API Architecture · System Design · Team Leadership  
 **Current Quest:** *Office Metaverse — A 2D Virtual Workplace Platform*
 
 > Every sprint is a level. Every bug is a boss fight.
