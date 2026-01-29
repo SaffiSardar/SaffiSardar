@@ -1,13 +1,13 @@
 <h1 align="center">Saffi Sardar</h1>
 <p align="center">
-  <b>Product Manager | Backend Engineer | System Builder</b><br/>
+  <b>Backend Systems Engineer</b><br/>
 </p>
 
 ---
 
 ## 🎮 Player Profile
 **Name:** Saffi  
-**Class:** Backend Engineer / Product Manager  
+**Class:** Backend Systems Engineer 
 **Special Abilities:** API Architecture · System Design · Team Leadership  
 **Current Quest:** *Office Metaverse — A 2D Virtual Workplace Platform*
 
@@ -34,8 +34,9 @@ A gamified virtual office where teams collaborate in real time.
 
 **Backend Engineering**
 - REST API Design (FastAPI)  
-- Database Modeling & Optimization  
-- Authentication · Authorization · RBAC  
+- Database Modeling   
+- Authentication(JWT) · Authorization(Roles|Guards)
+- Stateless Architecture
 
 **Product & Scrum**
 - Sprint Planning (JIRA / ClickUp)  
